@@ -14,7 +14,7 @@ AOS551_CNN
 | Repo | Jupyter Notebook |
 |-----:|---------------|
 |Curve-fitting|Curve_fitting_1D.ipynb|
-|PINN_tf2|ODE_solver_1D.ipynb//Burgers_continous_inference_TF2.ipynb|
+|PINN_tf2|ODE_solver_1D.ipynb<br />Burgers_continous_inference_TF2.ipynb|
 |CNN|               |
 
 
