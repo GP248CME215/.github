@@ -11,10 +11,10 @@ AOS551_PINN_tf2
 AOS551_CNN
         "tiny-cnn.ipynb"
         "vgg16.ipynb"
-| Rank | THING-TO-RANK |
+| Repo | Jupyter Notebook |
 |-----:|---------------|
 |Curve-fitting|Curve_fitting_1D.ipynb|
-|PINN_tf2|               |
+|PINN_tf2|ODE_solver_1D.ipynb\\Burgers_continous_inference_TF2.ipynb|
 |CNN|               |
 
 
