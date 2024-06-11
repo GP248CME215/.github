@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Welcome to our class Github
-Here is a summary of the repo and Jupyter notebooks with Colab links, so thaht you can run the codes without downloading Python packages:
+Here is a summary of the repositories and Jupyter notebooks with Colab links, so thaht you can run the codes without downloading Python packages:
 
 | Repo | Jupyter Notebook |
 |-----:|---------------|
